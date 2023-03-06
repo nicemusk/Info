@@ -1,25 +1,29 @@
 # Info
 
-using namespace LeeDuHyeong;
+using namespace LeeDuHyeong
 
 
-public class IAM
-{
+class IAm{
+
 name = "LeeDuHyeong";
 pronouns = "he","him";
 birth = "25/07/1996";
+
 }
 
 
-public class WhatICanUse
-{
+class WhatICanUse{
+
 code C;
 code C++;
 code C#;
 
+
 tool UnityEngine;
 tool VisualStudio;
 tool Mysql;
+
 }
 
 std::cout<<"Hello Guys"<<endl;
+}
