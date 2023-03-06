@@ -2,7 +2,6 @@
 
 using namespace LeeDuHyeong;
 
-
 public class IAM
 {
 name = "LeeDuHyeong";
